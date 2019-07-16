@@ -1,0 +1,12 @@
+{
+  "name": "timeago111",
+  "version": "1.0.0",
+  "description": "timeago111",
+  "main": "timeago.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["timeago111","date"],
+  "author": "fufushy",
+  "license": "ISC"
+}
